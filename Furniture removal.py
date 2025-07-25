@@ -33,7 +33,7 @@ print("✅ 4-bit Quantized FLUX.1 Kontext loaded!")
 from huggingface_hub import HfApi, login
 from huggingface_hub.utils import HfHubHTTPError
 
-token = "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"
+token = "ur token"
 
 try:
     login(token=token)  # Attempt login
