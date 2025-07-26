@@ -1,0 +1,6 @@
+pip install git+https://github.com/huggingface/diffusers.git@main
+pip install transformers>=4.53.1
+pip install -U bitsandbytes
+pip install -U hqq
+pip install ultralytics
+pip install gradio
